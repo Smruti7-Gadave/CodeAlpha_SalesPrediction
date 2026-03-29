@@ -81,5 +81,5 @@ Enter TV advertising budget: 300
 Enter Radio advertising budget: 200
 Enter Newspaper advertising budget: 200
 
-📈 Predicted Sales: 54.79
+📈 Predicted Sales: 54.79 
 
